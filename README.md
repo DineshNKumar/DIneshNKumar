@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I am dinesh kumar. I am a Full Stack Developer
 - 🌱 I’m currently learning JSP techonology
 - 🔭 I’m currently working on E-library project
  
