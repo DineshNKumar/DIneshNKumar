@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning JSP techonology
-🔭 I’m currently working on E-library project
+- 🌱 I’m currently learning JSP techonology
+- 🔭 I’m currently working on E-library project
  
