@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# About me 
-### Dinesh Kumar. I am a Full Stack Developer
+# Something about me 
+### Dinesh Kumar. I am a Full Stack Developer with MEAN & MERN technologies with 2 years of experience.
 - I’m currently working as Full stack developer with MEAN and MERN technologies. 
 - I’m also have good knowledge in spring boot. 
 - Also have a good knowledge in NextJS and NestJS.
