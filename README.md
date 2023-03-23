@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 # About me 
 ### Dinesh Kumar. I am a Full Stack Developer
-- 🌱 I’m currently working as Full stack developer with MEAN and MERN technologies. 
-- 🔭 I’m also learning spring boot for backend development with Java technology. 
-- 🌱 Expert in frontend development and backend both. 
-
-
+- I’m currently working as Full stack developer with MEAN and MERN technologies. 
+- I’m also have good knowledge in spring boot. 
+- Also have a good knowledge in NextJS and NestJS.
