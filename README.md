@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Dinesh Kumar. I am a Full Stack Developer with MEAN & MERN technologies with 2 years of experience.
-- I’m currently working as Full stack developer with MEAN and MERN technologies. 
+- I am currently learning Rust programing Language.
+
 - I’m also have good knowledge in spring boot. 
 - Also have a good knowledge in NextJS and NestJS.
