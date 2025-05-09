@@ -1,20 +1,38 @@
-### Hi there 👋
+# Hi there 👋 I'm Dinesh Kumar
 
-<!--
-**DineshNKumar/DIneshNKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a **Full Stack Developer** with 2+ years of experience working with **MEAN** and **MERN** stack technologies.
 
-Here are some ideas to get you started:
+🚀 I specialize in building scalable, high-performance web applications using:
+- **Frontend**: React.js, Next.js, Angular
+- **Backend**: Node.js, Express.js, NestJS, Rust, Go
+- **Databases**: MongoDB, MySQL
+- **Others**: Redis, Docker, Git, CI/CD pipelines, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#### Dinesh Kumar. I am a Full Stack Developer with MEAN & MERN technologies with 2 years of experience.
-- I am currently learning Rust programing Language.
+🦀 Currently diving deep into **Rust** to explore systems programming, performance, and safe concurrency.
 
-- Also have a good knowledge in NextJS and NestJS.
+📚 Passionate about clean code, efficient architecture, and continuous learning.
+
+---
+
+## 🔧 Tech Stack
+
+- **Languages**: JavaScript, TypeScript, Rust, HTML, CSS
+- **Frontend**: React, Next.js, Angular
+- **Backend**: Node.js, Express, NestJS
+- **Database**: MongoDB, MySQL, SQLite
+- **Tools**: Git, Docker, Postman, Redis
+- **Learning**: Rust, WebAssembly, Low-level systems programming
+
+---
+
+## 📈 GitHub Stats
+
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshkumar20&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with me
+
+- 📧 Email: dnkumar0510@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/dinesh0510/
+
