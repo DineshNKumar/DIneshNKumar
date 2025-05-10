@@ -27,7 +27,7 @@
 
 ## 📈 GitHub Stats
 
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshkumar20&show_icons=true&theme=radical)
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DineshNKumar&show_icons=true&theme=radical)
 
 ---
 
