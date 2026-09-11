@@ -1,39 +1,85 @@
-# Hi there 👋 I'm Dinesh Kumar
+# Hi, I'm Dinesh Kumar 👋
 
-💻 I'm a **Full Stack Developer** with 2+ years of experience working with **MEAN** and **MERN** stack technologies.
+### Full-Stack & Backend Engineer | TypeScript • Node.js • React • Rust
 
-🚀 I specialize in building scalable, high-performance web applications using:
-- **Frontend**: React.js, Next.js, Angular
-- **Backend**: Node.js, Express.js, NestJS, Rust, Go
-- **Databases**: MongoDB, MySQL
-- **Others**: Redis, Docker, Git, CI/CD pipelines, AWS
+I'm a software engineer with **5+ years of experience** building and maintaining
+production web applications, backend services, and scalable APIs.
 
-🦀 Currently diving deep into **Rust** to explore systems programming, performance, and safe concurrency.
+My primary expertise is in **TypeScript, Node.js, React, and PostgreSQL**, with
+additional experience in **Rust, Go, Docker, AWS, Redis, and Kafka**.
 
-📚 Passionate about clean code, efficient architecture, and continuous learning.
+I enjoy solving backend and system-design problems, designing reliable APIs,
+working with databases, and taking features from idea to production.
 
----
-
-## 🔧 Tech Stack
-
-- **Languages**: JavaScript, TypeScript, Rust, HTML, CSS
-- **Frontend**: React, Next.js, Angular
-- **Backend**: Node.js, Express, NestJS
-- **Database**: MongoDB, MySQL, SQLite
-- **Tools**: Git, Docker, Postman, Redis
-- **Learning**: Rust, WebAssembly, Low-level systems programming
+Currently, I'm expanding my expertise in **Rust**, with a focus on performance,
+concurrency, and systems programming.
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DineshNKumar&show_icons=true&theme=radical)
+**Languages**
+
+`TypeScript` `JavaScript` `Rust` `Go`
+
+**Frontend**
+
+`React` `Next.js` `Angular`
+
+**Backend**
+
+`Node.js` `Fastify` `Express.js` `NestJS`
+
+**Databases**
+
+`PostgreSQL` `MongoDB` `MySQL` `SQLite`
+
+**Infrastructure & Tools**
+
+`Docker` `AWS` `Nginx` `Redis` `Kafka` `Git` `CI/CD` `Linux`
+
+**Testing**
+
+`Jest`
 
 ---
 
-## 📫 Connect with me
+## 💡 What I Work On
 
-- 📧 Email: dnkumar0510@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/dinesh0510/
-- 💼 LeetCode: https://leetcode.com/u/Dinesh387/
+- Building scalable REST APIs and backend services
+- Designing PostgreSQL schemas and data-intensive applications
+- Developing full-stack applications with React and TypeScript
+- Multi-tenant SaaS architecture
+- Authentication, authorization, and role-based access control
+- Dockerized applications and production deployments
+- Event-driven systems and asynchronous processing
+- Exploring high-performance backend development with Rust
 
+---
+
+## 🌱 Currently Exploring
+
+- Advanced Rust
+- Distributed systems
+- System design
+- Performance optimization
+- Cloud-native backend architecture
+
+---
+
+## 📊 GitHub Stats
+
+![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DineshNKumar&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DineshNKumar&layout=compact)
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **remote Full-Stack and Backend Engineering opportunities**,
+especially roles involving TypeScript, Node.js, React, PostgreSQL, or Rust.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/dinesh0510/)
+- 🧩 [LeetCode](https://leetcode.com/u/Dinesh387/)
+- 📧 **dnkumar0510@gmail.com**
