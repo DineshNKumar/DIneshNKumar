@@ -82,5 +82,5 @@ especially roles involving TypeScript, Node.js, React, PostgreSQL, or Rust.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dinesh0510/)
 - 🧩 [LeetCode](https://leetcode.com/u/Dinesh387/)
-- 🧩 [NeedCode][https://neetcode.io/user/VigilantUzumaki731]
+- 🧩 [NeedCode](https://neetcode.io/user/VigilantUzumaki731/)
 - 📧 **dnkumar0510@gmail.com**
